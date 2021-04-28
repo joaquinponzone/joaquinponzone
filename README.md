@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 ! Nice to meet you!
 
+- 🔭 Currently working with a team on an e-commerce proyect from scratch.
+- 🌱 I’m currently learning Supabase ⚡.
+
+
+- 📫 How to reach me: ponzonejoaquin@gmail.com
 <!--
 **joaquinponzone/joaquinponzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
