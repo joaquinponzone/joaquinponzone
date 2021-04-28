@@ -1,4 +1,4 @@
-### Hi there 👋 ! Nice to meet you!
+### Hi there 👋 ! I'm Joaquin!
 
 - 🔭 Currently working with a team on an e-commerce proyect from scratch.
 - 🌱 I’m currently learning Supabase ⚡.
