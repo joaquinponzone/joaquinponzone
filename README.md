@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm Joaquin and I'm a Full-Stack Developer.
+### Hi there 👋 ! I'm Joaquin.
+
+I'm a Full-Stack Developer
 
 - 🔭 Currently working with a team on an e-commerce proyect from scratch.
 - 🌱 Learning Supabase ⚡.
