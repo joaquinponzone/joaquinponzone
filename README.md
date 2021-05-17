@@ -8,7 +8,7 @@ I enjoy developing apps with:
 - 💅🏽 Material-UI
 - 📶 ExpressJS
 - ⚡ Supabase
-- 🐘 Postgre
+- 🐘 PostgreSQL
 
 - 🔭 Learning React Native ⚡.
 
