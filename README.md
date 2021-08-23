@@ -9,6 +9,7 @@ I enjoy developing apps with:
 - 📶 ExpressJS
 - ⚡ Supabase
 - 🐘 PostgreSQL
+- 🐬 MySQL
 
 - 🔭 Learning React Native ⚡.
 
