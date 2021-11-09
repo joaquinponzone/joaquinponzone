@@ -6,7 +6,7 @@ I enjoy developing apps with:
 - 🖥️ Figma
 - 🌐 React-Redux
 - 💅🏽 Material-UI
-- 📶 ExpressJS
+- 📶 NodeJS
 - ⚡ Supabase
 - 🐘 PostgreSQL
 - 🐬 MySQL
