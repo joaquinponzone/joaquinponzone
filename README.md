@@ -1,15 +1,16 @@
-### Hi there 👋 ! I'm Joaquin.
+### Hi there 👋 !
 
-I'm a Full-Stack Developer
+I'm a Full-Stack Web Developer
 
 I enjoy developing apps with:
-- 🖥️ Figma
-- 🌐 React-Redux
-- 💅🏽 Material-UI
+- 🌐 React
+- 💅🏽 ChakraUI / Bootstrap / Material-UI
 - 📶 NodeJS
 - ⚡ Supabase
-- 🐘 PostgreSQL
 - 🐬 MySQL
+- 🐘 PostgreSQL
+- 🧩TypeORM
+- 🧩Sequelize
 
 - 🔭 Learning Next.js.
 
