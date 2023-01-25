@@ -11,7 +11,7 @@ I enjoy developing apps with:
 - 🐘 PostgreSQL
 - 🐬 MySQL
 
-- 🔭 Learning Solidity.
+- 🔭 Learning Next.js.
 
 
 - 📫 How to reach me: ponzonejoaquin@gmail.com
