@@ -3,9 +3,10 @@
 I'm a Full-Stack Web Developer
 
 I enjoy developing apps with:
-- 🌐 React
-- 💅🏽 ChakraUI / Bootstrap / Material-UI
 - 📶 NodeJS
+- 🌐 React
+-  ▲  Next.js
+- 💅🏽 Bootstrap / ChakraUI / Tailwind
 - ⚡ Supabase
 - 🐬 MySQL
 - 🐘 PostgreSQL
