@@ -11,6 +11,7 @@ I enjoy developing apps with:
 - ⚡ Supabase
 - 🐬 MySQL
 - 🐘 PostgreSQL
+- 🚀 Express 
 - 🧩TypeORM
 - 🧩Sequelize
 
