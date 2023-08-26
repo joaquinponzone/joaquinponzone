@@ -4,15 +4,15 @@ I'm a Full-Stack Web Developer
 
 I enjoy developing apps with:
 
-- 📶 NodeJS
+- 🪖 NodeJS
 - 🌐 React
--  ▲  Next.js
-- 💅🏽 Bootstrap / ChakraUI / Tailwind
-- ⚡ Supabase
+- 💅🏽 Tailwind / DaisyUI/ ChakraUI / Bootstrap
+- ▲  Next.js
 - 🐬 MySQL
 - 🐘 PostgreSQL
-- 🚀 Express 
-- 🧩TypeORM
-- 🧩Sequelize
+- 🚀 Express
+- 🛸 Serverless
+- 🧩 Sequelize
+- 🧩 TypeORM
 
 - 📫 How to reach me: ponzonejoaquin@gmail.com
