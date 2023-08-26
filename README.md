@@ -8,11 +8,11 @@ I enjoy developing apps with:
 -  🌐  React
 -  💅🏽  Tailwind / DaisyUI/ ChakraUI / Bootstrap
 -  🔼  Next.js
--  🐬  MySQL
--  🐘  PostgreSQL
--  🚀  Express
 -  🛸  Serverless
+-  🚀  Express
 -  🧩  Sequelize
 -  🧩  TypeORM
+-  🐬  MySQL
+-  🐘  PostgreSQL
 
 - 📫 How to reach me: ponzonejoaquin@gmail.com
