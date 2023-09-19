@@ -6,9 +6,10 @@ I enjoy developing apps with:
 
 -  🪖  NodeJS
 -  🌐  React
--  💅🏽  Tailwind / DaisyUI/ ChakraUI / Bootstrap
 -  🔼  Next.js
--  🛸  Serverless
+-  💅🏽  Tailwind / DaisyUI/ ChakraUI / Bootstrap
+-  😎  Shadcn UI
+-  🛸  Serverless / AWS
 -  🚀  Express
 -  🧩  Sequelize
 -  🧩  TypeORM
