@@ -7,8 +7,8 @@ I enjoy developing apps with:
 -  🪖  NodeJS
 -  🌐  React
 -  🔼  Next.js
--  💅🏽  Tailwind / DaisyUI/ ChakraUI / Bootstrap
 -  😎  Shadcn UI
+-  💅🏽  Tailwind / DaisyUI/ ChakraUI / Bootstrap
 -  🛸  Serverless / AWS
 -  🚀  Express
 -  🧩  Sequelize
