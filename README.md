@@ -7,7 +7,6 @@ I enjoy developing apps with:
 -  🪖  NodeJS
 -  🌐  React
 -  🔼  Next.js
--  😎  Shadcn UI
 -  💅🏽  Tailwind
 -  🛸  Serverless / AWS
 -  🚀  Express
